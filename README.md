@@ -34,10 +34,10 @@ Visit the deployed site above. When text is entered it will be saved automatical
 * Screenshots displaying functionality:
 
 Manifest:
-![Alt text](<assets/Screenshot 2023-08-05 144033.pdf>)
+![Alt text](<./assets/Screenshot 2023-08-05 144033.pdf>)
 
 Service Worker:
-![Alt text](<assets/Screenshot 2023-08-05 144010.pdf>)
+![Alt text](<./assets/Screenshot 2023-08-05 144010.pdf>)
 
 IndexedDB Storage:
 ![Alt text](<assets/Screenshot 2023-08-05 144644.pdf>)
